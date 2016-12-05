@@ -1,0 +1,53 @@
+body{ 
+background-color:aquamarine;
+margin-top:0px;
+
+}
+
+#practica{
+width:1000px;
+height:auto;
+background-color:white;
+margin-left:auto;
+ margin-right:auto;
+}
+#practica #emcabezado{
+width:1000px;
+height:150px;
+background-color:pink;
+}
+#practica #oferta {
+margin-top:18px;
+float:right;
+width:200px;
+height:1021px;
+background-color:white;
+}
+#practica #novedades {
+margin-top:18px;
+float:left;
+width:200px;
+height:1021px;
+background-color:white;
+}
+
+#practica #menu{
+width:1000px;
+
+background-color:blue;
+text-align:left;
+}
+#practica #menu_contenido{
+
+width:100%;
+height:1000px;
+background-color:white;
+
+}
+#practica #pie_de_pagina{
+width:100%;
+height:25px;
+background-color:blue;
+color: white;
+text-align:center;
+}
