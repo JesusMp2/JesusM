@@ -1,0 +1,33 @@
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\bin\Debug\Perez.exe.config
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\bin\Debug\Perez.exe
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\bin\Debug\Perez.pdb
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\bin\Debug\Perez.xml
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\obj\Debug\Perez.Form1.resources
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\obj\Debug\Perez.Resources.resources
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\obj\Debug\Perez.vbproj.GenerateResource.Cache
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\obj\Debug\Perez.exe
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\obj\Debug\Perez.xml
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\obj\Debug\Perez.pdb
+C:\Users\optimus\Desktop\Practicas_visual\Perez\Perez\bin\Debug\IrisSkin2.dll
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\bin\Debug\Perez.exe.config
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.exe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\bin\Debug\Perez.exe
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\bin\Debug\Perez.pdb
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\bin\Debug\Perez.xml
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.vbprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.Form1.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2012\Projects\EJEMPLO\Perez\Perez\obj\Debug\Perez.vbproj.GenerateResource.Cache
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\bin\Debug\Perez.exe.config
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.exe
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.xml
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.pdb
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\bin\Debug\Perez.exe
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\bin\Debug\Perez.pdb
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\bin\Debug\Perez.xml
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.vbprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.Form1.resources
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.Resources.resources
+C:\Users\ALEXANDER\Documents\Visual Studio 2012\Projects\Perez\Perez\obj\Debug\Perez.vbproj.GenerateResource.Cache
